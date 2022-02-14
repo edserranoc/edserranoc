@@ -1,4 +1,4 @@
-### Hi, I'm Edison Serrano 👋
+### Hello, I'm Edison Serrano 👋
 
 <!--
 **edserranoc/edserranoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
