@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a math and computer science student interested in topics related to Data Science, Artificial Intelligence and Bayesian Inference.
+I'm a math and computer science student interested in topics related to Artificial Intelligence, Markov Chain Simmulations, Bayesian Inference and Mathematical Modeling with Differential Equations.
  
 
 <!--
@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 ### BIO
 
-- 🌱 I’m currently learning R, Bayesian Inference and Artificial Intelligence.
-- 👯 I’m looking to collaborate on Youtube and Manim Projects.
+- 🌱 I’m currently learning TypeScript, Artificial Intelligence, Markov Chain Simmulations and Mathematical Modeling with Differential Equations.
+- 👯 I’m looking to collaborate on Image Processing and Data Science Projects.
 - 📫 How to reach me: [LikedIn - Edison D. Serrano C.](https://www.linkedin.com/in/edison-david-serrano-cardenas-0a15081a8/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a hug fan of One Piece. 
