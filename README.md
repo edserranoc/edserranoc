@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ### BIO
 
-- 🌱 I’m currently learning TypeScript, Markov Chain Simmulations and Mathematical Modeling with Differential Equations.
+- 🌱 I’m currently learning C++, Markov Chain Simmulations and Mathematical Modeling with Differential Equations.
 - 👯 I’m looking to collaborate on Image Processing and Data Science Projects.
 - 📫 How to reach me: [LikedIn - Edison D. Serrano C.](https://www.linkedin.com/in/edison-david-serrano-cardenas-0a15081a8/)
 - 😄 Pronouns: He/him
