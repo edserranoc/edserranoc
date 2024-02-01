@@ -22,21 +22,23 @@ Here are some ideas to get you started:
 
 
 <details open> <summary>🎓 Dual Degree:</summary>
- 
-- BSc in Mathematics, Universidad Nacional de Colombia (soon).
+
+- MSc Applied Mathematics, Center for Research in Mathematics (soon).
+- BSc in Mathematics, Universidad Nacional de Colombia.
 - BSc in Computer Science, Universidad Nacional de Colombia (soon).
 </details>
 
 <details >  <summary>💼 Professional Experience:</summary>
- 
-- Currently working as a Data Analyst at Transmilenio S.A.
+
+- Research Assistant at Center for Research in Mathematics.
+- Data Analyst at Transmilenio S.A.
 </details>
 
 <details >  <summary>🔍 Topics of Interest:</summary>
 
+- Stochastic and Convex Optimization.
+- Mathematical Modelling, Numerical Analysis.
 - Machine Learning techniques and applications.
-- Mathematical Modelling (PDE, ODE and Numerical Analysis).
-- Convex and Stochastic Optimization.
 - Markov Chain Simmulations and Bayesian Inference.
 - Image Processing Applications.
  
