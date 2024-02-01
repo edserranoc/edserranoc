@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-<details open> <summary>🎓 Dual Degree:</summary>
+<details open> <summary>🎓 Education:</summary>
 
 - MSc Applied Mathematics, Center for Research in Mathematics (soon).
 - BSc in Mathematics, Universidad Nacional de Colombia.
