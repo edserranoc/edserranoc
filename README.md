@@ -67,9 +67,9 @@ I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, w
 ### 🧠 AI and Machine Learning 
 
 <details>
-<summary><strong>ECGInf:  Inference of Electro Cardiogram Signal </strong></summary>
+<summary><strong>ECGInf:  Inference of Electrocardiogram Signals </strong></summary>
 
-A cutting-edge project combining EEG signal processing, dynamical systems and machine learning to study individuals patients with ischemia.
+A cutting-edge project combining EEG signal processing, dynamical systems, and machine learning to study patients with ischemia.
 
 **Tech Stack:** Python, Scikit-learn, Signal Processing Libraries
 **[View Project](https://github.com/edserranoc/ECGinf)** (placeholder link)
