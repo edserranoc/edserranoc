@@ -41,6 +41,7 @@ I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, w
 
 <details>  <summary>🔍 Topics of Interest:</summary>
 
+- Large Language Models (LLM) and Natural Language Processing (NLP)
 - Stochastic and Convex Optimization.
 - Mathematical Modelling, Numerical Analysis.
 - Machine Learning techniques and applications.
