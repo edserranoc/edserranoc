@@ -14,6 +14,7 @@ I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, w
 
 <details>
 <summary>💼 Professional Experience:</summary>
+ 
 - Research Assistant at Center for Research in Mathematics.
 - Data Analyst at Transmilenio S.A.
 </details>
