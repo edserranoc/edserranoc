@@ -51,7 +51,7 @@ I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, w
 
 ## 🛠️ Skills and Technologies
 
-<details>
+<details open>
 <summary>Expand to see my technical skills</summary>
  
 | **Category** | **Technologies** |
@@ -73,9 +73,16 @@ I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, w
 
 A cutting-edge project combining EEG signal processing, dynamical systems, and machine learning to study patients with ischemia.
 
-**Tech Stack:** Python, Scikit-learn, Signal Processing Libraries
+**Tech Stack:** Python, Scikit-learn, Signal Processing Libraries<hr>
 **[View Project](https://github.com/edserranoc/ECGinf)** (placeholder link)
+</details>
 
+<details>
+<summary><strong>Pic2LaTeX: Converter images to LaTeX format</strong></summary>
+
+
+**Tech Stack:** Python, Sckilearn <hr>
+**[View Project](https://github.com/edserranoc/Pic2LaTeX)** (placeholder link)
 </details>
 
 
