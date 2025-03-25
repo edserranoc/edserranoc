@@ -19,25 +19,6 @@ I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, w
 - Data Analyst at Transmilenio S.A.
 </details>
 
-<!--- 
-</details>
-<summary>🎓 Education:</summary>
-
-- MSc Applied Mathematics, Center for Research in Mathematics (soon).
-- BSc in Mathematics, Universidad Nacional de Colombia.
-- BSc in Computer Science, Universidad Nacional de Colombia (soon).
-</details>
-
-<summary>💼 Professional Experience:</summary>
-
-- Research Assistant at Center for Research in Mathematics.
-- Data Analyst at Transmilenio S.A.
-</details>
-
---->
-
-
-
 
 <details>  <summary>🔍 Topics of Interest:</summary>
 
@@ -70,17 +51,23 @@ I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, w
 
 <details>
 <summary><strong>ECGInf:  Inference of Electrocardiogram Signals </strong></summary>
-
 A cutting-edge project combining EEG signal processing, dynamical systems, and machine learning to study patients with ischemia.
 
+ **[View Project](https://github.com/edserranoc/ECGinf)** (placeholder link)<br>
+ 
 **Tech Stack:** Python, Scikit-learn, Signal Processing Libraries<hr>
-**[View Project](https://github.com/edserranoc/ECGinf)** (placeholder link)
+</details>
+
+<details> 
+<summary><strong>FrogCode: Rest-Mex: Research on Sentiment Analysis Task for Mexican Tourist Texts </strong></summary>
+
+**[View Project](https://github.com/edserranoc/NLP_Rest_Mex2025)**
+**Tech Stack:** Pytorch.
 </details>
 
 <details>
 <summary><strong>Pic2LaTeX: Converter images to LaTeX format</strong></summary>
-
-
+ 
 **Tech Stack:** Python, Sckilearn <hr>
 **[View Project](https://github.com/edserranoc/Pic2LaTeX)** (placeholder link)
 </details>
