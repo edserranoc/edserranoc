@@ -1,34 +1,3 @@
-# Introducción
-## Sección 1: Subtítulo
-
-<h3>Introducción 1</h3>
-
-Hola, soy Edison, soy maestro en matemáticas aplicadas 🤠  👽
-
-*Caramelo* 
-
-**Negrita**
-
-***Ambos tipos***
-
----
-
-<!---
-Me gustan las empanadas
---->
-
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Intro+a+Git+y+Github;%C2%A1Bienvenidos!;Secci%C3%B3n+3" alt="Typing SVG" /></a>
-</p>
-
-
----
-
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=2000&pause=90&color=4D92BB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Edison+Serrano;Researcher+%7C+MSc+Student+%7C+Data+Scientist;AI+%7C+Computer+Vision+%7C+Mathematical+Modelling" alt="Typing SVG" /></a>
 </p>
