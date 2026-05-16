@@ -10,11 +10,14 @@
 
 ## 👨‍💻 About Me
 
-I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, with a strong focus on optimization, data science, and inverse problems. My current research involves developing classification models for individuals with ischemia using dynamical systems and machine learning techniques.
+I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, I specialize in Biomedical Signal Proccesing, Natural Language Processing, Machine Learning, Bayesian Inference and Data Science, combining mathematical rigor with practical modeling expertise to deliver data-driven solutions for real-world problems. My experience spans deep learning for text classification, scientific computing, and Bayesian inference.
+
+
+Always open to collaborations in interpretable AI, biomedical computing, or scientific ML.
 
 <details>
 <summary>💼 Professional Experience:</summary>
- 
+- Research Assistence at University of Duisburg-Essen.
 - Research Assistant at Center for Research in Mathematics.
 - Data Analyst at Transmilenio S.A.
 </details>
@@ -23,10 +26,11 @@ I am a mathematician and a Master’s student in Applied Mathematics at CIMAT, w
 <details>  <summary>🔍 Topics of Interest:</summary>
 
 - Large Language Models (LLM) and Natural Language Processing (NLP)
+- Image Processing Applications.
 - Stochastic and Convex Optimization.
 - Mathematical Modelling, Numerical Analysis.
 - Machine Learning techniques and applications.
-- Image Processing Applications.
+
  
 </details>
 
@@ -59,18 +63,12 @@ A cutting-edge project combining EEG signal processing, dynamical systems, and m
 </details>
 
 <details> 
-<summary><strong>FrogCode: Rest-Mex: Research on Sentiment Analysis Task for Mexican Tourist Texts </strong></summary>
+<summary><strong>Rest-Mex: Research on Sentiment Analysis Task for Mexican Tourist Texts </strong></summary>
 
 **[View Project](https://github.com/edserranoc/NLP_Rest_Mex2025)**
 **Tech Stack:** Pytorch.
 </details>
 
-<details>
-<summary><strong>Pic2LaTeX: Converter images to LaTeX format</strong></summary>
- 
-**Tech Stack:** Python, Sckilearn <hr>
-**[View Project](https://github.com/edserranoc/Pic2LaTeX)** (placeholder link)
-</details>
 
 
 ## 📫 Let's Connect
